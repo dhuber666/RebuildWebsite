@@ -22,14 +22,14 @@ body {
 .contact {
 
   position: relative;
-  right: 120px;
+  right: 280px;
 }
 
 .social-media {
 
 
   position: relative;
-  left: 10px;
+  left: 105px;
 }
 
 
@@ -55,10 +55,10 @@ body {
 
 #logo {
 
-  width: 14%;
-  height: 14%;
+  width: 12%;
+  height: 12%;
   position: relative;
-  top: 3px;
+
 
   margin: 0;
 
@@ -68,7 +68,7 @@ body {
 
   position: relative;
   right: 490px;
-  top: 12px;
+  top: 15px;
 }
 
 .custom-list-item {
@@ -77,6 +77,6 @@ body {
   font-size: 11px;
   letter-spacing: 1px;
   font-weight: bold;
-  margin-left: 30px;
+  margin-left: 20px;
 
 }
