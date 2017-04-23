@@ -1,0 +1,82 @@
+.inline {
+
+  display: inline;
+  padding-left: 10px;
+
+}
+
+body {
+
+  font-family: 'Arimo', sans-serif;
+  font-style: normal;
+  color: #333;
+
+
+}
+
+.social-media > i {
+
+  padding-left: 10px;
+}
+
+.contact {
+
+  position: relative;
+  right: 120px;
+}
+
+.social-media {
+
+
+  position: relative;
+  left: 10px;
+}
+
+
+
+
+.second-panel {
+
+  text-align: center;
+  border-top: none;
+  margin: 0;
+  padding: 0;
+  height: 65px;
+
+
+}
+
+.first-panel {
+
+  margin-bottom: 0;
+  padding-bottom: 0;
+  text-align: center;
+}
+
+#logo {
+
+  width: 14%;
+  height: 14%;
+  position: relative;
+  top: 3px;
+
+  margin: 0;
+
+}
+
+.custom-list {
+
+  position: relative;
+  right: 490px;
+  top: 12px;
+}
+
+.custom-list-item {
+  border: none;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-left: 30px;
+
+}
